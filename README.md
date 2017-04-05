@@ -1,4 +1,4 @@
-Code for America Org Chart
+Code for America Organization Chart
 ===============
 
 Dated August 2013
